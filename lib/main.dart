@@ -28,7 +28,6 @@ class HomeScreen extends StatelessWidget {
         padding: const EdgeInsets.all(16.0),
         child: Column(
           children: [
-            // Menambahkan Row dengan SingleChildScrollView
             SingleChildScrollView(
               scrollDirection: Axis.horizontal,
               child: Row(
